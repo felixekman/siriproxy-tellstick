@@ -1,4 +1,4 @@
-siriproxy-tellstick
+SiriProxy-Tellstick
 ===================
 
-Test
+SiriProxy-Tellstick
